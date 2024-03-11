@@ -1,0 +1,92 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+          body {
+               background-color: rgba(20, 19, 19, 1);
+               display: flex;
+               align-items: center;
+               justify-content: center;
+               height: 100vh;
+               margin: 0;
+          }
+
+          .list-mains {
+               background-color: rgba(20, 19, 19, 1);
+               padding: 20px;
+               border-radius: 10px;
+               box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+               color: aliceblue;
+               width: 500px;
+               height: 500px;
+               border: 1px solid white;
+          }
+
+          h4 {
+               text-transform: capitalize;
+               font-size: 30px;
+               text-align: center;
+          }
+
+          .date1 {
+               text-align: center;
+               margin-top: -30px;
+               font-style: italic;
+               font-size: small;
+          }
+
+          #taskin {
+               border-radius: 10px;
+               height: 30px;
+               width: 80%;
+               background-color: black;
+          }
+
+          #submit {
+               border-radius: 10px;
+               height: 30px;
+               width: auto;
+               background-image: -webkit-linear-gradient(pink, blueviolet);
+               color: rgba(20, 19, 19, 1);
+               font-weight: bolder;
+          }
+
+          li {
+               list-style: none;
+          }
+
+          #taskss {
+               margin-bottom: 50px;
+          }
+
+          #items {
+               display: flex;
+               flex-direction: column;
+               height: auto;
+               width: auto;
+               border-color: aliceblue;
+               margin-bottom: 50px;
+               background-color:black;
+               border-radius:10px;
+          }
+
+          #content {
+               display: flex;
+               flex-direction: row;
+               align-items: center;
+          }
+
+          .actions {
+               margin-left: auto;
+          }
+
+          .completed {
+               text-decoration: line-through;
+          }
+          .dropdown {
+               margin-top: 20px;
+               text-align: center;
+          }
+
+          select {
+               padding: 5px;
+               font-size: 16px;
+               border-radius: 5px;
+          } */
